@@ -1,1 +1,18 @@
-css file
+html {
+	margin: 20px;
+	background-color: #ccb6d8;
+}
+
+body {
+	font-family: "Futura";
+	font-weight: 300;
+	color: #28375d;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+p {
+	font-size: 20px;
+}
